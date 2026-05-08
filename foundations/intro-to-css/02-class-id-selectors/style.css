@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.redtext {
+  background-color: #ff3366cc;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.redtext.bigger {
+  font-size: 24px;
+}
+
+#greentext {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
+#bluetext {
+  color: blue;
+  font-size: 36px;
+}
